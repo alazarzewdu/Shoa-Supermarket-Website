@@ -30,6 +30,11 @@ ul {
   margin-bottom: 0px;
 }
 
+.s-logo {
+  margin-left: -80px;
+  width: 90px;
+}
+
 p {
   font-family: "Rubik", sans-serif;
   font-size: 14px;
